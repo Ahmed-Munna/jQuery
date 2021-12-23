@@ -1,0 +1,23 @@
+#stop{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 100%;
+    font-weight: bold;
+}
+#clickme{
+    padding: 10px;
+    width: 400px;
+    border: none;
+    background-color: rosybrown;
+    font-weight: bold;
+
+}
+div{
+    /* padding: 10px; */
+    width: 400px;
+    text-align: center;
+    background-color: seagreen;
+    overflow: hidden;
+    display: none;
+}

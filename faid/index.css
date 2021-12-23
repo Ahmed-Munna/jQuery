@@ -1,0 +1,27 @@
+.div-1{
+    background-color: burlywood;
+    width: 100px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}
+
+
+.div-2{
+    background-color: rgb(102, 118, 211);
+    width: 100px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}
+
+.div-3{
+    background-color: rgb(222, 135, 205);
+    width: 100px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}

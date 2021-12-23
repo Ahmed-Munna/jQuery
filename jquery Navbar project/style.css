@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+#navbar{
+    background-color: aqua;
+    width: 100%;
+
+}
+.navbarWraper{
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 40px;
+    font-family: Arial;
+}
+.navSubWraper>ul{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    transition: 1s;
+}
+.fa-bars{
+    float: right;
+    font-size: 30px;
+    display: none;
+    z-index: 2;
+}
+
+@media (max-width: 420px){
+
+    .navSubWraper>ul{
+        width: 50vw;
+        background-color: aquamarine;
+        height: 100vh;
+        position: absolute;
+        right: 0;
+        top: 85px;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        display: none;
+        transition: 1s;
+        padding: 50px;
+        text-align: center;
+    }
+    .navSubWraper>ul>li{
+        margin-bottom: 50px;
+        padding: 10px 0px;
+    }
+    .navSubWraper>ul>li:hover{
+        background-color: beige;
+        transition: 1s;
+    }
+    .fa-bars{
+        display: block;
+        z-index: 2;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

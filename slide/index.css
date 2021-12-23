@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+#slide{
+    background-color: #000;
+    border: none;
+    color: aliceblue;
+    font-family: arial black;
+    padding: 10px 150px 10px 150px;
+    display:flex;
+    margin: auto;
+    border-color: node;
+}
+.lorem{
+    width: 333px;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-family: auto;
+    display: none;
+
+}
+@media(max-width:420px){
+
+       #slide{
+           width: 100%;
+           padding: none;
+           
+           
+       }
+
+
+}

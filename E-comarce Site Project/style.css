@@ -1,0 +1,105 @@
+@font-face{
+    src: url(font/PublicSans-VariableFont_wght.ttf);
+    font-family: PublicSans;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    /* background-color: bisque; */
+}
+
+
+/* Login in section */
+
+#containar{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 50%;
+    height: 80vh;
+    padding:20px;
+}
+.subContant{
+    text-align: center;
+
+}
+
+.socialIcon{
+    padding-top: 70px;
+    
+
+}
+.fab {
+    padding: 20px;
+    font-size: 25px;
+}
+.fab:hover{
+    color: #1761A0;
+}
+.btn{
+    background-color: #1761A0;
+    font-family: PublicSans;
+}
+.btn:hover{
+    background-color: #2368A5;
+}
+/* Login in section */
+
+
+/*midea Qurray*/
+
+@media only screen and (max-width: 768px){
+
+    #containar{
+        width:100%;
+        height:100vh;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 420px){
+
+    #containar{
+        padding:5px;
+    }
+
+    .socialIcon {
+        padding-top: 180px;
+    }
+
+    btn{
+        margin-top:100px
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*midea Qurray*/
+
+
+

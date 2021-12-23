@@ -1,0 +1,11 @@
+.container{
+    margin: auto;
+    text-align: center;
+}
+span{
+    font-size: 40px;
+    font-weight: 700;
+    background-color: teal;
+    display: block;
+    padding: 50px 0;
+}

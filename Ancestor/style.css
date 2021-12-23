@@ -1,0 +1,6 @@
+.ancestor *{
+    border: 2px solid #ccc;
+    padding: 5px;
+    margin: 15px;
+    display: block;
+}

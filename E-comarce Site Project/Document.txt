@@ -1,0 +1,9 @@
+color code: #1761A0;
+
+            #4C96D7;
+
+for login Page{
+		color : #FC7B7B;
+
+		color : #ABC1FF;
+}
